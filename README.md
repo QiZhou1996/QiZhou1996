@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm currently working on data analysis projects.
+At GitHub, my main goals for 2025 are:
+  1. documenting (and sharing) knowledge and experience in data analytics;
+  2. practicing five or six data analysis projects with different focuses such as visualization and storytelling;
+  3. thus, strengthening fundamental skills in data analysis.
 
 <!--
 **QiZhou1996/QiZhou1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
