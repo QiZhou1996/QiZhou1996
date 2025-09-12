@@ -1,9 +1,5 @@
 ## Hi there 👋
-I'm currently working on data analysis projects.
-At GitHub, my main goals for 2025 are:
-  1. documenting (and sharing) knowledge and experience in data analytics;
-  2. practicing five or six data analysis projects with different focuses such as visualization and storytelling;
-  3. thus, strengthening fundamental skills in data analysis.
+My career is centred on leveraging data to solve complex problems. I've built a strong foundation through my Master's in Artificial Intelligence from King's College London and hands-on experience as a Technical Support Engineer for Microsoft Azure, where I honed my skills in root cause analysis and working with large-scale data logs. I've recently solidified my expertise with the Google Advanced Data Analytics Certificate and applied my skills to several complete business analysis projects. I am now focused on transitioning into a data analytics role where I can apply my unique blend of technical problem-solving and proactive, independent analysis to drive actionable insights.
 
 <!--
 **QiZhou1996/QiZhou1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
