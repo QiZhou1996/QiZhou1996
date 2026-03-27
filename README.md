@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Career Journey](https://github.com/QiZhou1996/a-career-journey-timeline-project/blob/main/vizzes/AndaleMono.png)
+![My Career Journey](https://github.com/QiZhou1996/a-career-journey-timeline-project/blob/main/Vizzes/Viz.png)
 
 I am now building a ten-year career in data and AI, leveraging my previous journey as follows:
 
